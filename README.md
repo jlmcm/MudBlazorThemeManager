@@ -16,7 +16,7 @@ Blazor Theme Manager component for MudBlazor. You can use it to try out differen
 ## Prerequisites
 - [MudBlazor](https://mudblazor.com/) Installed and configurated.
 ## Installation
-Install Package
+Open up the terminal and navigate into the project folder then run the following command...
 ```
 dotnet add package MudBlazor.ThemeManager
 ```
