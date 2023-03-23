@@ -20,7 +20,7 @@ Open up the terminal and navigate into the MudBlazor.themeManager.App folder (sh
 ```
 dotnet add package MudBlazor.ThemeManager
 ```
-Add the following to `_Imports.razor`
+Add the following to `_Imports.razor`in the MudBlazor.ThemeManager.App project
 ```razor
 @using MudBlazor.ThemeManager
 ```
