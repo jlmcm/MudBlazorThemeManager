@@ -24,7 +24,7 @@ Add the following to `_Imports.razor`in the MudBlazor.ThemeManager.App project
 ```razor
 @using MudBlazor.ThemeManager
 ```
-Add the following to `index.html` (client-side) or `_Host.cshtml` (server-side) in the `head`
+Add the following to `index.html` (client-side) or `_Host.cshtml` (server-side) in the `head` (add <head> tags)
 ```razor
 <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
